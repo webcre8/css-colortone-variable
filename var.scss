@@ -1,3 +1,4 @@
+/* Main Color */
 $color-main: rgba(#00ffe4, 1) ;
 $color-main-blight: lighten($color-main, 12.5%) ;
 $color-main-strong: desaturate($color-main, 25%) ;
@@ -10,6 +11,8 @@ $color-main-pale: lighten($color-main, 37.5%) ;
 $color-main-lgrayish: desaturate(lighten($color-main, 12.5%), 75%) ;
 $color-main-grayish: desaturate(darken($color-main, 12.5%), 75%) ;
 $color-main-dgrayish: darken($color-main, 37.5%) ;
+
+/* Sub Color */
 $color-sub: rgba(#00b1ff, 1) ;
 $color-sub-blight: lighten($color-sub, 12.5%) ;
 $color-sub-strong: desaturate($color-sub, 25%), ;
@@ -22,6 +25,8 @@ $color-sub-pale: lighten($color-sub, 37.5%) ;
 $color-sub-lgrayish: desaturate(lighten($color-sub, 12.5%), 75%) ;
 $color-sub-grayish: desaturate(darken($color-sub, 12.5%), 75%) ;
 $color-sub-dgrayish: darken($color-sub, 37.5%) ;
+
+/* Accent Color */
 $color-accent: rgba(#ff009d, 1) ;
 $color-accent-blight: lighten($color-accent, 12.5%) ;
 $color-accent-strong: desaturate($color-accent, 25%), ;
@@ -35,6 +40,7 @@ $color-accent-lgrayish: desaturate(lighten($color-accent, 12.5%), 75%) ;
 $color-accent-grayish: desaturate(darken($color-accent, 12.5%), 75%) ;
 $color-accent-dgrayish: darken($color-accent, 37.5%) ;
 
+/* Mono Color (Base or Text Color) */
 $color-mediumgray: desaturate($color-main, 100%) ;
 $color-white: desaturate(lighten($color-main, 50%), 100%) ;
 $color-lightgray: desaturate(lighten($color-main, 25%), 100%) ;
