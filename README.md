@@ -7,12 +7,12 @@ var.scssには変数一覧が入っています。
 
 おまけでテキストカラー、ベースカラーも入れてあります。必要な色だけ使うと良いでしょう。
 
-細かいことはブログ記事に書きます。
+[任意の色からカラートーンのCSS指定をSassの変数で自動的に生成する - WEBCRE8.jp](http://webcre8.jp/create/sass-variable-colortone.html)
 
 
 ## Demo
-<iframe height='600' scrolling='no' src='//codepen.io/webcre8/embed/YPOrzL/?height=268' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/webcre8/pen/YPOrzL/'>[Demo] Sass Variables Color tone</a> by You Sakai (<a href='http://codepen.io/webcre8'>@webcre8</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+<p data-height="500" data-theme-id="0" data-slug-hash="YPOrzL" data-default-tab="result" data-user="webcre8" class='codepen'>See the Pen <a href='http://codepen.io/webcre8/pen/YPOrzL/'>[Demo] Sass Variables Color tone</a> by You Sakai (<a href='http://codepen.io/webcre8'>@webcre8</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ## License
 CC0 1.0 Univarsalです。ご自由に★
